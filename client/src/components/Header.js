@@ -14,7 +14,6 @@ class Header extends Component {
 				);
 			default:
 				return <li><a>Log Out</a></li>;
-
 		}
 	}
 
